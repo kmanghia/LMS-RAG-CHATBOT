@@ -1,0 +1,5 @@
+{
+  "query": "Liệt kê thông tin về giảng viên Vân Lam",
+  "response": "Dưới đây là thông tin chi tiết về giảng viên Vân Lam và các khóa học của cô:\n\n**Thông tin giảng viên Vân Lam:**\n\n*   **Kinh nghiệm:** 4 năm\n*   **Chuyên môn:** Phân tích dữ liệu\n*   **Thành tựu:**\n    *   Xây dựng pipeline ETL (Extract, Transform, Load) bằng Python (Pandas, NumPy) + SQL, giúp giảm 70% thời gian xử lý dữ liệu thủ công.\n    *   Áp dụng Machine Learning (Scikit-learn, TensorFlow) để dự đoán doanh thu, tỷ lệ khách hàng rời bỏ (churn rate), đạt độ chính xác >85%.\n*   **Đánh giá:** 0/5 sao\n\n**Danh sách các khóa học của giảng viên Vân Lam:**\n\n1.  **[The Complete Python Bootcamp From Zero to Hero in Python]**\n    *   Giá: 279000 VND\n    *   Trình độ: Sơ cấp\n    *   Đánh giá: 0/5 sao\n\n2.  **[Data Science A-Z: Hands-On Exercises]**\n    *   Giá: 279000 VND\n    *   Trình độ: Cao Cấp\n    *   Đánh giá: 0/5 sao\n\n3.  **[Machine Learning A-Z: AI, Python]**\n    *   Giá: 499000 VND\n    *   Trình độ: Cao Cấp\n    *   Đánh giá: 0/5 sao",
+  "created_time": "2025-05-16T09:19:38.858218"
+}

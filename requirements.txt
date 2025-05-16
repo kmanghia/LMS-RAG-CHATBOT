@@ -1,0 +1,19 @@
+flask
+flask-socketio
+flask-cors
+pymongo
+python-dotenv
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-google-genai
+langchain-huggingface
+faiss-cpu
+google-generativeai
+sentence-transformers
+huggingface-hub
+# Cải tiến: thêm các gói hỗ trợ cho fuzzy matching
+fuzzywuzzy
+python-Levenshtein
+thefuzz

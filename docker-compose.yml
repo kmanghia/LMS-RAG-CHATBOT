@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  # LMS RAG Chatbot service
+  lms-rag-chatbot:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: lms_rag_chatbot
+    restart: always
+    ports:
+      - "8080:8080"
+    environment:
+      - MONGODB_URI=${MONGODB_URI}
+      - MONGODB_DB_NAME=${MONGODB_DB_NAME:-trannghia}
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - DEBUG=${DEBUG:-False}
+      - PORT=8080
+    volumes:
+      - ./prompt_templates:/app/prompt_templates
+
+volumes: 
